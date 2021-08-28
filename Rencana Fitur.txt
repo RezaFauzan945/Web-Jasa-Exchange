@@ -1,0 +1,61 @@
+HOME
+-Portofolio
+-Testimoni
+-Contact Us
+-About US
+
+AUTHENTICATION
+-Daftar
+    =nama
+    =email
+    =nomor telpon
+    =alamat
+    =password
+-Login
+    =username/email/nomor telpon
+    =password
+
+MARKETPLACE
+-Barang
+    =grid view produk 
+     *gambar produk
+     *rating produk
+     *nama produk
+     *nama toko =>hover: alamat singkat toko
+     *harga produk 
+-Jasa
+    =grid view tawaran Jasa
+     *gambar tawaran jasa =>hover:portofolio jasa
+     *nama tawaran jasa
+     *nama penyedia tawaran jasa
+     *Alamat penyedia jasa
+     *radius Kerja Tawaran jasa
+
+SELLERPAGE
+    =Management iklan
+     *menambahkan iklan
+     *menghapus iklan
+     *edit iklan
+     *promosi iklan
+
+    =Chatroom
+     *chat dari pemesan 
+     *pengingat pesanan masuk 
+     *pengingat keamanan akun
+
+    =Pengelola pesanan
+     *penerimaan pesanan
+     *prosedur pengiriman barang
+     *prosedur pelaksanaan jasa
+     *resolusi keluhan pesanan
+     *konfirmasi pesanan
+     *pengelola pendapatan
+
+    =Dashboard Pesanan & Pendapatan
+     *chart jumlah pengunjung toko/perusahaan/iklan
+     *chart pesanan masuk
+     *chart pesanan sukses
+     *chart pesanan gagal
+     *chart pendapatan harian/bulanan/tahunan
+              
+
